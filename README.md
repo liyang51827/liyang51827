@@ -23,10 +23,12 @@ I'm a professional web developer with 10+ years' freelancing career.
 I'm PASSIONATE about building products that solve problems to help my clients build their successful solutions.
 ```
 
+<!--
 <div align="center">
   <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=liyang51827&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyang51827&layout=compact&langs_count=8" />
 </div>
+-->
 
 + 🔭 **I’m currently working on ...**
     * [🏆 Node.js](https://nodejs.org/en/)
